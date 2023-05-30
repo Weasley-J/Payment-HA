@@ -1,4 +1,4 @@
-package cn.alphahub.payment.core.kuaiqian;
+package cn.alphahub.payment.core.client.kuaiqian;
 
 import io.micrometer.common.util.StringUtils;
 import lombok.extern.slf4j.Slf4j;

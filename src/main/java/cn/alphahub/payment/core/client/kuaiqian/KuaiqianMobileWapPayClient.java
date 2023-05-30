@@ -1,4 +1,4 @@
-package cn.alphahub.payment.core.kuaiqian;
+package cn.alphahub.payment.core.client.kuaiqian;
 
 import cn.alphahub.payment.entity.AbstractPayRequest;
 import cn.alphahub.payment.entity.AbstractPayResponse;
@@ -11,7 +11,7 @@ import cn.alphahub.payment.entity.AbstractRefundResponse;
  * @author weasley
  * @version 1.0.0
  */
-public class KuaiqianInternationalClient extends AbstractKuaiqianPayClient {
+public class KuaiqianMobileWapPayClient extends AbstractKuaiqianPayClient {
     @Override
     public AbstractPayResponse pay(AbstractPayRequest req) {
         return null;

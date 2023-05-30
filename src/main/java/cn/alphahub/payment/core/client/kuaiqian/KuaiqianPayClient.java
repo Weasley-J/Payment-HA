@@ -1,4 +1,4 @@
-package cn.alphahub.payment.core.kuaiqian;
+package cn.alphahub.payment.core.client.kuaiqian;
 
 import cn.alphahub.payment.core.PayClient;
 
